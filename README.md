@@ -29,7 +29,10 @@ Future improvements for the PacMen Exercise include:
  - If  expand the styling or make the exercise more extensive, would consider creating a separate CSS file and linking it to the HTML file for better organization
 	
 :star: Feel free to contribute ideas or collaborate on these enhancements! :star:
-<img width="668" alt="pac4" src="https://github.com/marialee222/pacmen/assets/150623001/d316ce03-5a55-4179-8413-270f8e7a94ff">
+| Column 1 | Column 2 |
+| --------- | --------- |
+| Row 1, Col 1 | Row 1, Col 2 |
+| Row 2, Col 1 | Row 2, Col 2 |
 
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
