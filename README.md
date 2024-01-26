@@ -29,6 +29,9 @@ Future improvements for the PacMen Exercise include:
  - If  expand the styling or make the exercise more extensive, would consider creating a separate CSS file and linking it to the HTML file for better organization
 	
 :star: Feel free to contribute ideas or collaborate on these enhancements! :star:
+
+
+
 <img width="100" alt="pac1" src="https://github.com/marialee222/pacmen/assets/150623001/f7795f90-260c-49a0-8d63-af4f67579e78">
 <img width="100" alt="pac2" src="https://github.com/marialee222/pacmen/assets/150623001/7ac8ccff-af29-4c06-b17c-45064f518543">
 <img width="100" alt="pac3" src="https://github.com/marialee222/pacmen/assets/150623001/baa4b355-3068-4e35-a035-131df81e868c">
