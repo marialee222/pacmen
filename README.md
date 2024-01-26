@@ -31,8 +31,6 @@ Future improvements for the PacMen Exercise include:
 :star: Feel free to contribute ideas or collaborate on these enhancements! :star:
 
 <img width="668" alt="pac1" src="https://github.com/marialee222/pacmen/assets/150623001/7c40a1c6-1735-4758-afde-846bb949d3ea">
-<img width="668" alt="pac2" src="https://github.com/marialee222/pacmen/assets/150623001/45791f95-6a77-4158-a38f-9adb780f6789">
-<img width="668" alt="pac3" src="https://github.com/marialee222/pacmen/assets/150623001/a10f668d-04ac-4e29-bc10-b8eb69463e01">
 <img width="668" alt="pac4" src="https://github.com/marialee222/pacmen/assets/150623001/d316ce03-5a55-4179-8413-270f8e7a94ff">
 
 ### License
