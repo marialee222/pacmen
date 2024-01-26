@@ -1,7 +1,7 @@
 #### MIT xPRO Fullstack Development
 ## PacMen Exercise
 ### PacMania Unleashed: Navigating the Maze of Randomized PacMen
-Simulation link: [MIT to Harvard Bus](https://marialee222.github.io/pacmen/)
+Simulation link: [PacMen](https://marialee222.github.io/pacmen/)
 
 ## Description
 The PacMan exercise is a simple interactive web application that allows users to create and control multiple PacMan characters on the screen. Users can add PacMan characters and start the game, with the added feature of controlling the characters' movements using keyboard arrow keys. The exercise aims to demonstrate basic HTML, CSS, and JavaScript skills while providing an engaging and interactive user experience.
