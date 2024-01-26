@@ -8,7 +8,7 @@ The PacMan exercise is a simple interactive web application that allows users to
 
 ### Improvements
 Updates made to enhance user experience and functionality:
-The primary improvement made was the addition of keyboard controls. The original exercise involved creating PacMan characters that move randomly on the screen when the "Start Game" button is clicked. The improvements include allowing users to interactively control the PacMan characters using keyboard arrow keys.
+- The primary improvement made was the addition of keyboard controls. The original exercise involved creating PacMan characters that move randomly on the screen when the "Start Game" button is clicked. The improvements include allowing users to interactively control the PacMan characters using keyboard arrow keys.
 	
 ## How to Run
 To run the PacMen exercise on your machine, follow these steps:
