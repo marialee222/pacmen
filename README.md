@@ -23,7 +23,7 @@ Future improvements for the PacMen Exercise include:
  - Advanced Animations:  Explore additional animation effects to make PacMan characters more visually appealing.
  - If  expand the styling or make the exercise more extensive, would consider creating a separate CSS file and linking it to the HTML file for better organization
 	
-Feel free to contribute ideas or collaborate on these enhancements!
+:star: Feel free to contribute ideas or collaborate on these enhancements! :star:
 
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
