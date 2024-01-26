@@ -26,5 +26,4 @@ Feel free to contribute ideas or collaborate on these enhancements!
 
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-![image](https://github.com/marialee222/pacmen/assets/150623001/cbc1f070-8d7e-47e9-b936-0776b4cedb4a)
 
