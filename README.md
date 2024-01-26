@@ -17,6 +17,7 @@ To run the PacMen exercise on your machine, follow these steps:
 3. Open index.html in your web browser.
 
 ## Roadmap of Future Improvements
+Future improvements for the PacMen Exercise include:
  - Scoring System:  Introduce a scoring mechanism to track points based on PacMan movements and interactions.
  - Game Over Conditions:  Implement conditions for game over, providing a more engaging gaming experience.
  - Advanced Animations:  Explore additional animation effects to make PacMan characters more visually appealing.
