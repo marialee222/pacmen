@@ -25,6 +25,20 @@ Future improvements for the PacMen Exercise include:
 	
 :star: Feel free to contribute ideas or collaborate on these enhancements! :star:
 
+Welcome to the PacMen Game!
+
+   ┌───┐ ┌───┐ ┌───┐
+   │ o │ │ o │ │ o │
+   └───┘ └───┘ └───┘
+
+Controls:
+- Click "Add PacMan" to create a new PacMan.
+- Click "Start Game" to make them move.
+- Use arrow keys to control PacMen.
+
+Enjoy the PacMen adventure! :video_game:
+
+
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
