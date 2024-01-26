@@ -15,6 +15,11 @@ To run the PacMen exercise on your machine, follow these steps:
 1. Clone the repo: git clone https://github.com/marialee222/pacmen.git
 2. Open the project directory: cd pacmen
 3. Open index.html in your web browser.
+4. Keyboard Controls:
+- Click "Add PacMan" to create a new PacMan.
+- Click "Start Game" to make them move.
+- Use arrow keys to control PacMen.
+Enjoy the PacMen adventure!
 
 ## Roadmap of Future Improvements
 Future improvements for the PacMen Exercise include:
@@ -24,20 +29,6 @@ Future improvements for the PacMen Exercise include:
  - If  expand the styling or make the exercise more extensive, would consider creating a separate CSS file and linking it to the HTML file for better organization
 	
 :star: Feel free to contribute ideas or collaborate on these enhancements! :star:
-
-Welcome to the PacMen Game!
-
-   ┌───┐ ┌───┐ ┌───┐
-   │ o │ │ o │ │ o │
-   └───┘ └───┘ └───┘
-
-Controls:
-- Click "Add PacMan" to create a new PacMan.
-- Click "Start Game" to make them move.
-- Use arrow keys to control PacMen.
-
-Enjoy the PacMen adventure! :video_game:
-
 
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
