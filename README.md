@@ -17,10 +17,10 @@ To run the PacMen exercise on your machine, follow these steps:
 3. Open index.html in your web browser.
 
 ## Roadmap of Future Improvements
-	- Scoring System:  Introduce a scoring mechanism to track points based on PacMan movements and interactions.
-	- Game Over Conditions:  Implement conditions for game over, providing a more engaging gaming experience.
-	- Advanced Animations:  Explore additional animation effects to make PacMan characters more visually appealing.
-	- If  expand the styling or make the exercise more extensive, would consider creating a separate CSS file and linking it to the HTML file for better organization
+ - Scoring System:  Introduce a scoring mechanism to track points based on PacMan movements and interactions.
+ - Game Over Conditions:  Implement conditions for game over, providing a more engaging gaming experience.
+ - Advanced Animations:  Explore additional animation effects to make PacMan characters more visually appealing.
+ - If  expand the styling or make the exercise more extensive, would consider creating a separate CSS file and linking it to the HTML file for better organization
 	
 Feel free to contribute ideas or collaborate on these enhancements!
 
