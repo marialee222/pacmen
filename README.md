@@ -14,7 +14,7 @@ Updates made to enhance user experience and functionality:
 To run the PacMen exercise on your machine, follow these steps:
 1. Clone the repo: git clone https://github.com/marialee222/pacmen.git
 2. Open the project directory: cd pacmen
-3. Open index.html in your web browser.
+3. Open Index.html in your web browser.
 4. Keyboard Controls:
 - Click "Add PacMan" to create a new PacMan.
 - Click "Start Game" to make them move.
